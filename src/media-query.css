@@ -1,0 +1,843 @@
+@media screen and (max-width:550px) {
+    #service-header {
+        margin: 6rem 0rem 1.5rem 0rem;
+
+    }
+
+    #service-header h1 {
+        font-size: 2rem;
+    }
+
+    .service-icon {
+        font-size: 10rem;
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .faq-main {
+        width: 65rem;
+    }
+
+    /* .responsive-making{
+        margin: 0rem 1rem 0rem 2rem ;
+    } */
+    .service-header h1 {
+        margin: 0rem 1rem 0rem 1rem;
+    }
+
+    .start-website-main {
+        margin: 7rem .5rem 0rem 1rem;
+    }
+
+    .lightning-fast-website-main {
+        margin: 6rem 1rem 0rem 1rem;
+    }
+
+    .wordpress-made-easy-main {
+        margin: 5rem 1rem 0rem 1rem;
+    }
+
+    .support-main {
+        margin: 5rem 1rem 0rem 1rem;
+    }
+
+    .flexible-main {
+        margin: 5rem 1rem 0rem 1rem;
+    }
+
+    .control-panel-main {
+        margin: 2rem 1rem 0rem 1rem;
+    }
+}
+
+@media screen and (max-width:1170px) {
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .see-feature {
+        margin: 2rem 0rem 0rem 0rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 50rem;
+    }
+
+    .card-heading {
+        margin: 0rem -23.5rem 0rem -23.5rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -25rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -130px;
+    }
+
+    .card-price {
+        margin: 0rem 0rem 0rem 0rem;
+    }
+
+    .see-feature {
+        margin: 2.5rem 0rem 0rem -4.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+}
+
+@media screen and (max-width:1120px) {
+    .faq-main {
+        width: 60rem;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .navbar-list li{
+        display: none;
+
+
+
+
+    }
+    .navbar-list{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .mobile-icon i{
+        visibility: visible;
+        opacity: 1;
+    }
+
+    
+}
+
+@media screen and (max-width:1050px) {
+    .faq-main {
+        width: 55rem;
+    }
+    
+    
+}
+
+@media screen and (max-width:970px) {
+    .faq-main {
+        width: 50rem;
+    }
+
+    /* .responsive-making{
+        margin: 0rem 1rem 0rem 2rem ;
+    } */
+}
+
+@media screen and (max-width:890px) {
+    .faq-main {
+        width: 45rem;
+
+    }
+
+}
+
+@media screen and (max-width:890px) {
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .see-feature {
+        margin: 2rem 0rem 0rem 0rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 40rem;
+    }
+
+    .card-heading {
+        margin: 0rem -18.5rem 0rem -18.5rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -21.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -130px;
+    }
+
+    .card-price {
+        margin: 0rem 0rem 0rem -2rem;
+    }
+
+    .see-feature {
+        margin: 2.5rem 0rem 0rem -4.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+
+    .web-hosting {
+        width: 45rem;
+    }
+}
+
+@media screen and (max-width:826px) {
+    .domain-checker-search button {
+        margin: 3rem 0rem 0rem 0rem;
+        padding: .8rem 6rem .8rem 6rem;
+    }
+
+}
+
+@media screen and (max-width:790px) {
+    .faq-main {
+        width: 40rem;
+
+    }
+
+    .service-header h1 {
+        margin: 0rem 0rem -1rem 0rem;
+    }
+
+    /* .control-panel-video video{
+        margin: -1rem 0rem 0rem 0rem ;
+    } */
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 40rem;
+    }
+
+    .domain-checker-para p {
+        font-size: 1rem;
+    }
+
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .get-started {
+        margin: 0rem 0rem 5rem 0rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 30rem;
+        height: 34rem;
+    }
+
+    .card-heading {
+        margin: 0rem -5.2rem 0rem -5.2rem;
+    }
+
+    .card-content-left {
+        margin: 12rem 0rem 0rem 0rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -2.5rem;
+    }
+
+    .vertical-line-3 {
+        height: 0px;
+        width: 0px;
+    }
+
+    .card-price {
+        margin: -12rem 5rem 0rem -3rem;
+    }
+
+    .card-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .see-feature {
+        margin: 11.5rem 0rem 0rem 4.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+
+    .web-hosting {
+        width: 40rem;
+    }
+
+}
+
+@media screen and (max-width:750px) {
+    .gurantee-main p {
+        text-align: center;
+    }
+
+    /* .gurantee-main h1{
+        font-size: 2.3rem;
+    } */
+    /* .control-panel-video video{
+        margin: -1.5rem 0rem 0rem 0rem;
+    } */
+}
+
+@media screen and (max-width:720px) {
+    .faq-main {
+        width: 35rem;
+
+    }
+
+    /* .control-panel-video video{
+        margin: -1.8rem 0rem 0rem 0rem;
+    } */
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 38rem;
+    }
+
+    .hero-image {
+        background: none;
+        background-color: rgba(102, 58, 229, 255);
+        position: relative;
+        height: 85vh;
+    }
+
+    .hero {
+        padding: 5.6rem 0rem 0rem 0rem;
+        width: 35rem;
+    }
+
+    .hero-price-main i {
+        float: left;
+        margin: 0rem -8rem 0rem 8rem;
+    }
+
+}
+
+@media screen and (max-width:665px) {
+    .gurantee-main p {
+        text-align: center;
+    }
+
+    .gurantee-main h1 {
+        font-size: 2rem;
+    }
+
+    .control-panel-video video {
+        margin: -2.3rem;
+    }
+
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 31rem;
+    }
+
+    .web-hosting {
+        width: 35rem;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .faq-main {
+        width: 30rem;
+
+    }
+
+    .partner-company img {
+        margin: -1rem 1rem 0rem 1rem;
+    }
+
+    /* .control-panel-video video{
+        margin: -2.5rem 0rem 0rem 0rem;
+    } */
+
+}
+
+@media screen and (max-width:590px) {
+
+    .control-panel-video video {
+        margin: -3.2rem 0rem 0rem 0rem;
+    }
+
+    .partner-company img {
+        margin: 1rem 1rem 0rem 1rem;
+        width: 8rem;
+    }
+
+}
+
+@media screen and (max-width:580px) {
+    .hero {
+        padding: 5.6rem 1rem 0rem 1rem;
+        width: 30rem;
+    }
+
+    .hero-price-main i {
+        float: left;
+        margin: 0rem -13rem 0rem 4rem;
+    }
+}
+
+@media screen and (max-width:570px) {
+    .web-hosting {
+        width: 30rem;
+    }
+
+}
+
+@media screen and (max-width:550px) {
+    .faq-main {
+        width: 25rem;
+
+    }
+
+    /* .control-panel-video video{
+        margin: -4.2rem 0rem 0rem 0rem;
+    } */
+    /* .responsive-making{
+        margin: 0rem 1rem 0rem 2rem ;
+    } */
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 26rem;
+    }
+
+    .domain-checker-header {
+        font-size: 1rem;
+    }
+
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .get-started {
+        margin: 0rem 0rem 5rem 0rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 26rem;
+        height: 34rem;
+    }
+
+    .card-heading {
+        margin: 0rem -3.2rem 0rem -3.2rem;
+    }
+
+    .card-content-left {
+        margin: 12rem 0rem 0rem 0rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -2.5rem;
+    }
+
+    .vertical-line-3 {
+        height: 0px;
+        width: 0px;
+    }
+
+    .card-price {
+        margin: -12rem 5rem 0rem -3rem;
+    }
+
+    .card-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .see-feature {
+        margin: 11.5rem 0rem 0rem 4.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+
+}
+
+@media screen and (max-width:525px) {
+    .hero {
+        padding: 4.6rem 0rem 0rem 0rem;
+        width: 28rem;
+        margin: auto;
+    }
+
+    .hero-header {
+        font-size: 1.6rem;
+    }
+
+    .hero-header-plus {
+        font-size: 2.5rem;
+    }
+
+    .hero-description {
+        font-size: 1rem;
+    }
+
+    .hero-price-main i {
+        padding: 0rem 0rem 0rem 0rem;
+    }
+
+    .hero-image {
+        height: 68vh;
+    }
+
+    .see-feature {
+        margin: 13rem 0rem 0rem 4rem;
+        padding: 0rem 0rem 0rem 0rem;
+    }
+}
+
+@media screen and (max-width:510px) {
+    .web-hosting {
+        width: 25rem;
+    }
+
+    .web-header {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .gurantee-main {
+        margin: 2rem 0rem 4rem 0rem;
+    }
+
+    .gurantee-main h1 {
+        font-size: 1.5rem;
+        padding: 3rem 0rem 1.4rem 0rem;
+    }
+
+    .gurantee-main p {
+        font-size: 1rem;
+        padding: 0rem .6rem 2rem .6rem;
+    }
+
+    .faq-header {
+        font-size: 1.9rem;
+    }
+
+    /* .control-panel-video video{
+        margin: -4.8rem 0rem 0rem 0rem;
+    } */
+    /* .responsive-making h1{
+        font-size: 1.8rem;
+    }
+    .responsive-making video{
+        font-size: .9rem;
+        margin: -.4rem 0rem -8rem 0rem;
+    } */
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 22rem;
+    }
+
+    .domain-checker-header {
+        font-size: .7rem;
+        margin: 1rem 0rem 0rem 1rem;
+    }
+
+    .domain-checker-para {
+        font-size: .7rem;
+    }
+
+    .domain-checker-main {
+        padding: 2rem 0rem 0rem 0rem;
+    }
+
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .get-started {
+        margin: 0rem 0rem 5rem 0rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 24rem;
+        height: 34rem;
+    }
+
+    .card-heading {
+        margin: 0rem -2.2rem 0rem -2.2rem;
+    }
+
+    .card-content-left {
+        margin: 12rem 0rem 0rem 0rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -2.5rem;
+    }
+
+    .vertical-line-3 {
+        height: 0px;
+        width: 0px;
+    }
+
+    .card-price {
+        margin: -12rem 5rem 0rem -3rem;
+    }
+
+    .card-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .see-feature {
+        margin: 12.5rem 0rem 0rem 4.2rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+
+    .partner-company img {
+        margin: 1rem .5rem 0rem .5rem;
+        width: 8rem;
+    }
+
+}
+
+@media screen and (max-width:470px) {
+    .faq-main {
+        width: 20rem;
+
+    }
+
+    .start-website-main {
+        margin: 4rem .5rem 0rem 1rem;
+    }
+
+    .start-website-header h1 {
+        font-size: 1.7rem;
+    }
+
+    .hero {
+        padding: 5.6rem 0rem 0rem 0rem;
+        width: 25rem;
+        margin: auto;
+    }
+
+    .hero-header {
+        font-size: 1.7rem;
+    }
+
+    .hero-header-plus {
+        font-size: 2rem;
+    }
+
+    .hero-description {
+        font-size: 1rem;
+    }
+
+    .hero-price-main i {
+        float: left;
+        margin: 0rem 0rem 0rem 2rem;
+        padding: 0rem 0rem 0rem 1rem;
+    }
+
+    .hero-button button {
+        padding: 1rem 2rem 1rem 2rem;
+        font-size: 1.2rem;
+        border-radius: 25px;
+    }
+
+    .hero-image {
+        height: 63vh;
+    }
+
+    /* .responsive-making h1{
+        font-size: 1.6rem;
+    } */
+
+}
+
+@media screen and (max-width:440px) {
+    .partner-company img {
+        margin: 1rem 1rem 0rem 1rem;
+        width: 6rem;
+    }
+
+}
+
+@media screen and (max-width:400px) {
+    .faq-main {
+        width: 17rem;
+
+    }
+
+    /* .responsive-making h1{
+        font-size: 1.3rem;
+    } */
+    .footer-content-1 {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .footer-domain {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .domain-hosting {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .footer-information {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .footer-legal {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .footer-company {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .footer-help {
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    /* .control-panel-video video{
+        margin: -8rem 0rem 0rem 0rem;
+    } */
+
+}
+
+@media screen and (max-width:427px) {
+    .card-content-right {
+        display: none;
+    }
+
+    .vertical-line-1 {
+        display: none;
+    }
+
+    .vertical-line-2 {
+        display: none;
+
+    }
+
+    .get-started {
+        margin: 0rem 0rem 5rem -1rem;
+        width: 10rem;
+    }
+
+    .card-main {
+        width: 20rem;
+        height: 34rem;
+    }
+
+    .card-heading {
+        margin: 0rem -.2rem 0rem -.2rem;
+    }
+
+    .card-content-left {
+        margin: 12rem 0rem 0rem 0rem;
+    }
+
+    .card-content-left h1 {
+        margin: 0rem 0rem 0rem -2.5rem;
+    }
+
+    .vertical-line-3 {
+        height: 0px;
+        width: 0px;
+    }
+
+    .card-price {
+        margin: -12rem 5rem 0rem -3rem;
+    }
+
+    .card-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .see-feature {
+        margin: 11.5rem 0rem 0rem 4.5rem;
+    }
+
+    .vertical-line-3 {
+        margin: -170px 0px -3px -30px;
+    }
+
+    .web-hosting {
+        width: 22rem;
+    }
+
+    .web-header {
+        font-size: .9rem;
+    }
+
+    .web-description {
+        font-size: .9rem;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .domain-checker-search {
+        justify-content: center;
+        margin: auto;
+        width: 19rem;
+    }
+
+    .partner-company img {
+        margin: 1rem .5rem 0rem .5rem;
+        width: 6rem;
+    }
+}
